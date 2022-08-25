@@ -1,0 +1,14 @@
+{
+  "manifest_version": 2,
+  "name": "__MSG_extensionName__",
+  "version": "1.0",
+  "description": "__MSG_extensionDescription__",
+  "default_locale": "en",
+  "icons": {
+    "96": "icons/logo-96.png"
+  },
+  "background": {
+    "scripts": ["shortcut.js"]
+  },
+  "permissions": ["contextMenus"]
+}
