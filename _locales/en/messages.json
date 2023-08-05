@@ -1,16 +1,16 @@
 {
   "extensionName": {
-    "message": "SpanishDict Shortcut",
+    "message": "SpanishDictionary Shortcut",
     "description": "Name of the extension"
   },
 
   "extensionDescription": {
-    "message": "Adds a context menu item to search SpanishDict for highlighted words or translate text.",
+    "message": "Adds a context menu item to search SpanishDictionary for highlighted words or translate text.",
     "description": "Description of the extension"
   },
 
   "contextMenuItemText": {
-    "message": "Translate with SpanishDict",
+    "message": "Translate with SpanishDictionary",
     "description": "Context menu item text"
   }
 }
